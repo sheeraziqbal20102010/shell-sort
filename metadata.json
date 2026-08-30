@@ -1,0 +1,6 @@
+{
+  "name": "Shell Sort",
+  "description": "Interactive Shell Sort visualizer with animated gapped comparisons, step-by-step C++ execution sync, and hands-on algorithm learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
